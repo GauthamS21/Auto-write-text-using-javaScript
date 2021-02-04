@@ -1,7 +1,7 @@
 # Auto-write-text-using-javaScript
-Toast Notification
+Auto Write Text
 
--   toast container floating
--   toast design
--   button
--   click show random toast message
+-   text
+-   index
+-   show text based on index
+-   increment index
